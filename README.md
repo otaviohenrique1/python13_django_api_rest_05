@@ -56,6 +56,7 @@ Projeto do curso "API com Django 3: Testes, segurança e lapidações" da Alura
 - python manage.py shell => abre o shell do Django
 - python manage.py createsuperuser => cria o super usuario
 - python manage.py test => rodar os testes
+- python manage.py loaddata programas_iniciais.json => carrega arquivo
 
 ### Comando para criar secret key para o django
 
