@@ -33,6 +33,7 @@ Projeto do curso "API com Django 3: Testes, segurança e lapidações" da Alura
 - pip install djangorestframework
 - pip install markdown
 - pip install django-filter
+- pip install drf-yasg
 
 ## Exibir pacotes instalados
 
