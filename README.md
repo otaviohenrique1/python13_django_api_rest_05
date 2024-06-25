@@ -1,4 +1,4 @@
-# python12_django_api_rest_04
+# python13_django_api_rest_05
 
 Projeto do curso "API com Django 3: Testes, segurança e lapidações" da Alura
 
